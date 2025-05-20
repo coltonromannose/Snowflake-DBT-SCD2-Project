@@ -4,7 +4,7 @@ version: 2
 
 sources:
     - name: source
-      database: MYDB
+      database: OTHERDB
       schema: BRONZE
       tables:
         - name: WORK_PRODUCT_COPY
